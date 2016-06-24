@@ -1,0 +1,4 @@
+Goal: Design and implement a client-side SPA application based on AngularJS. There are given the server-side REST services to be called by app with AJAX requests.
+Core Òechnologies :  AngularJS, HTML5, CSS3, Bootstrap
+Repo: https://github.com/plmng/IssueTrackingSystem
+03.2016

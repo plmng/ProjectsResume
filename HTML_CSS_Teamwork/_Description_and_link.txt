@@ -1,0 +1,4 @@
+Goal: Static responsive funny web site
+Core Òechnologies :  HTML5, CSS3, Bootstrap
+Repo: https://github.com/plmng/HTML_Team_Project/tree/master/TEAM%20PROJECT%20-test%20bootstrap
+02.2015

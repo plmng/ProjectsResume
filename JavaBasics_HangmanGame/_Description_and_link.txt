@@ -1,0 +1,5 @@
+Console Java Game
+Goal: Design and implement a Java-based game
+Core Òechnologies :  Java
+Repo: https://github.com/victoroff/Team-CENTRAL-PARK-/tree/master/bin
+01.2015

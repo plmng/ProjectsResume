@@ -1,0 +1,5 @@
+Goal: Design and implement dynamic data-driven Web applications - A Photo Contest Rating System, using ASP.NET MVC and deploy in à cloud environment
+Core Òechnologies :  C#, MS SQL, Entity framework, ASP.NET MVC framework, AJAX, Ninject, AutoÌapper, UI - Razor template engine, Bootstrap, JQuery, Windows Azure,
+Repo: https://github.com/OCZ/ABRUPLE
+
+10.2015 

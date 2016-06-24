@@ -1,0 +1,4 @@
+Goal: Create a 2D object-oriented role-playing game.
+Core Òechnologies : C#, WPF
+Repo: https://github.com/OCZ/TeamWork_OOP
+11.2015
